@@ -256,6 +256,10 @@ You can find the log of this install session at:
 'UpdateNodeList' was successful.
 
 
+// Gridçƒç\ê¨(GUI)
+[grid@node1 ~]$ /u01/app/19.0.0/grid/gridSetup.sh
+
+
 [root@node1 ~]# /u01/app/19.0.0/grid/root.sh
 Performing root user operation.
 
